@@ -1,0 +1,2 @@
+model_checkpoint_path: "crack_hhu_captcha.model-3000"
+all_model_checkpoint_paths: "crack_hhu_captcha.model-3000"
